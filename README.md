@@ -6,7 +6,7 @@ Welcome to TravelExplorer, a collaborative travel management system designed to 
 
 ## GitHub Repository:
 
-[TravelExplorer GitHub Repository https://github.com/MonicaC29/TravelApp-2024.git]
+[TravelExplorer GitHub Repository https://github.com/MonicaC29/TravelBlogApp.git]
 
 # 1.System Architecture
 
