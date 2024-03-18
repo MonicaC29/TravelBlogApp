@@ -6,7 +6,9 @@ Welcome to TravelExplorer, a collaborative travel management system designed to 
 
 ## GitHub Repository:
 
-[TravelExplorer GitHub Repository https://github.com/MonicaC29/TravelBlogApp.git]
+[TravelExplorer GitHub Repository
+client: https://github.com/MonicaC29/Client-TravelApp.git
+server: https://github.com/MonicaC29/Server-TravelApp.git ]
 
 # 1.System Architecture
 
@@ -22,9 +24,22 @@ The backend server will be built using the MERN stack:
 - Express for the server
 - Node.js for the server-side JavaScript runtime
 
-## Deployment:
+## Deployment
 
-The application will be deployed using Render
+By deploying the client and server separately, we ensure better scalability and maintainability of the application architecture and Users can easily access both the frontend and backend deployments of the TravelExplorer application.
+
+## Deployment Front-End:
+
+Frontend Deployment:
+The frontend of the application, built using React, is deployed independently to enhance modularity and ease of updates. It is hosted on Render at the following link:
+
+https://client-travelapp.onrender.com
+
+## Deployment Back-end:
+
+The backend of the application, comprising the Express server and MongoDB database, is deployed separately for improved performance and flexibility. It is also hosted on Render at the following link:
+
+https://server-travelapp.onrender.com
 
 # 2.System Requirements Specification
 
